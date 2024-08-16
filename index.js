@@ -896,15 +896,7 @@ const commands = {
     "test": {
         exec: (msg, _) => {
             if(msg.channelId === testingChannel) {
-                debugAddPoll("rhyhorn", "1050929736538402917", 1, 4);
-                debugAddPoll("chansey", "1050929736538402917", 2, 4);
-                debugAddPoll("tangela", "1050929736538402917", 4, 2);
-                debugAddPoll("kangaskhan", "1050929736538402917", 4, 2)
-                debugAddPoll("horsea", "1050929736538402917", 2, 4);
-                debugAddPoll("seadra", "1050929736538402917", 3, 3);
-                debugAddPoll("goldeen", "1050929736538402917", 0, 6);
-                debugAddPoll("seaking", "1050929736538402917", 1, 5);
-                debugAddPoll("staryu", "1050929736538402917", 2, 4);
+                
             }
         }
     }
